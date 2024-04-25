@@ -66,3 +66,8 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+### 풀이 요약
+최초 1의 개수를 저장<br>
+이후 n을 1씩 증가해가며 1의 개수 비교<br>
+최초로 1의 개수가 동일한 값이 정답.

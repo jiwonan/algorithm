@@ -109,4 +109,4 @@ class Solution {
 
 bottom-up 방식으로 row가 0이 되면 return하는 재귀함수를 구현했다.
 
-+) 이건 무슨 알고리즘일까..
++) dynamic programming 문제이다.

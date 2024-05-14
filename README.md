@@ -17,4 +17,7 @@
 [ATM 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM/README.md#%ED%92%80%EC%9D%B4-%EC%9A%94%EC%95%BD)<br/>
 [구름이의 취뽀 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/29155.%E2%80%85%EA%B0%9C%EB%B0%9C%EC%9E%90%E2%80%85%EC%A7%80%EB%A7%9D%EC%83%9D%E2%80%85%EA%B5%AC%EB%A6%84%EC%9D%B4%EC%9D%98%E2%80%85%EC%B7%A8%EC%97%85%E2%80%85%EB%BD%80%EA%B0%9C%EA%B8%B0/README.md#%ED%92%80%EC%9D%B4-%EC%9A%94%EC%95%BD)<br/>
 [에너지 드링크 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/20115.%E2%80%85%EC%97%90%EB%84%88%EC%A7%80%E2%80%85%EB%93%9C%EB%A7%81%ED%81%AC/README.md#%ED%92%80%EC%9D%B4%EC%9A%94%EC%95%BD)<br/>
-[바닥 장식 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1388.%E2%80%85%EB%B0%94%EB%8B%A5%E2%80%85%EC%9E%A5%EC%8B%9D/README.md#%ED%92%80%EC%9D%B4-%EC%9A%94%EC%95%BD)
+[바닥 장식 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1388.%E2%80%85%EB%B0%94%EB%8B%A5%E2%80%85%EC%9E%A5%EC%8B%9D/README.md#%ED%92%80%EC%9D%B4-%EC%9A%94%EC%95%BD)<br/>
+<br/>
+<br/>
+[한동이는 공부가 하기 싫어 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/3182.%E2%80%85%ED%95%9C%EB%8F%99%EC%9D%B4%EB%8A%94%E2%80%85%EA%B3%B5%EB%B6%80%EA%B0%80%E2%80%85%ED%95%98%EA%B8%B0%E2%80%85%EC%8B%AB%EC%96%B4%EF%BC%81/README.md)<br/>

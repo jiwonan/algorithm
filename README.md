@@ -24,4 +24,5 @@
 [BFS와 DFS](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS)<br/>
 <br/>
 2024.05.15<br/>
-[바이러스](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)
+[바이러스](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4)<br/>
+[촌수 계산](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0)<br/>

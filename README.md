@@ -31,3 +31,4 @@
 <br/>
 2024.05.17<br/>
 [2*n 타일링2](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852)<br/>
+[이친수](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2193.%E2%80%85%EC%9D%B4%EC%B9%9C%EC%88%98)<br/>

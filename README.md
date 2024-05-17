@@ -28,3 +28,6 @@
 [촌수 계산](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0)<br/>
 [미로 탐색](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89)<br/>
 [잃어버린 괄호 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1541.%E2%80%85%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%E2%80%85%EA%B4%84%ED%98%B8/README.md#%ED%92%80%EC%9D%B4%EC%9A%94%EC%95%BD)<br/>
+<br/>
+2024.05.17<br/>
+[2*n 타일링2](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852)<br/>

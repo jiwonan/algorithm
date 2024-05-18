@@ -33,3 +33,6 @@
 [2*n 타일링2](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852)<br/>
 [이친수](https://github.com/jiwonan/algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2193.%E2%80%85%EC%9D%B4%EC%B9%9C%EC%88%98)<br/>
 [1,2,3 더하기](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/9095.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0/README.md)<br/>
+<br/>
+2024.05.18<br/>
+[계단 오르기](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/README.md#%ED%92%80%EC%9D%B4-%EC%9A%94%EC%95%BD)<br/>

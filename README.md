@@ -40,3 +40,4 @@
 <br/>
 2024.05.22<br/>
 [제곱수의 합 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1699.%E2%80%85%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md)<br/>
+[가장 긴 증가하는 부분 수열 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11053.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md)<br/>

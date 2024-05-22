@@ -37,3 +37,6 @@
 2024.05.18<br/>
 [계단 오르기](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/README.md#%ED%92%80%EC%9D%B4-%EC%9A%94%EC%95%BD)<br/>
 [이동하기](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/11048.%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/README.md)<br/>
+<br/>
+2024.05.22<br/>
+[제곱수의 합 문제 풀이 요약](https://github.com/jiwonan/algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver/1699.%E2%80%85%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md)<br/>

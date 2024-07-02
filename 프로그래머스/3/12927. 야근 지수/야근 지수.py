@@ -4,6 +4,9 @@ def solution(n, works):
     answer = 0
     heap_list = []
     
+    if sum(works) < n:
+        return 0
+    
     for work in works:
         heapq.heappush(heap_list, work * -1)
     
